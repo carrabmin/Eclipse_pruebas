@@ -11,7 +11,7 @@ public class MainPruebas {
 		
 		System.out.println("Cuarto commit con protocolo ssh");
 		
-		System.out.println("Pruebas Git nuevo Eclipse");
+		System.out.println("Pruebas Git nuevo Eclipse_02");
 			
 		
 
